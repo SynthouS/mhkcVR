@@ -1,2 +1,2 @@
-# mhkfVR
-VR Helmet and Joystick emulator
+# mhkcVR
+VR Helmet and Controller emulator
